@@ -11,10 +11,3 @@ In my free time, I enjoy tinkering with hardware and software, building and conf
 
 I'm excited about the opportunities that lie ahead as a computer science student, and I'm looking forward to applying my knowledge and skills to make a positive impact on the world.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
