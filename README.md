@@ -1,2 +1,2 @@
 # tianyang-yu.github.io
-Tianyang YU's personal page
+Tianyang Yu's personal page
