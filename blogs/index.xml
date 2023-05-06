@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tianyang&#39;s Website</title>
-    <link>https://aiqiyang.github.io/tianyang02.github.io/</link>
-    <description>Recent content on Tianyang&#39;s Website</description>
+    <title>Blogs on Tianyang&#39;s Website</title>
+    <link>https://aiqiyang.github.io/tianyang02.github.io/blogs/</link>
+    <description>Recent content in Blogs on Tianyang&#39;s Website</description>
     <image>
       <title>Tianyang&#39;s Website</title>
       <url>https://aiqiyang.github.io/tianyang02.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://aiqiyang.github.io/tianyang02.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 05 May 2023 04:50:06 +0930</lastBuildDate><atom:link href="https://aiqiyang.github.io/tianyang02.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 May 2023 04:50:06 +0930</lastBuildDate><atom:link href="https://aiqiyang.github.io/tianyang02.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer Architecture1</title>
       <link>https://aiqiyang.github.io/tianyang02.github.io/blogs/computer-architecture/page1/</link>
@@ -27,16 +27,6 @@
       
       <guid>https://aiqiyang.github.io/tianyang02.github.io/blogs/computer-architecture/page2/</guid>
       <description>Computer Architecture2 </description>
-    </item>
-    
-    <item>
-      <title>Tianyang Yu</title>
-      <link>https://aiqiyang.github.io/tianyang02.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiqiyang.github.io/tianyang02.github.io/about/</guid>
-      <description>About I am a third year student at the University of Adelaide studying Computer Science. I have a strong interest in software development and am skilled in C++, HTML, CSS, JavaScript, and Vue.js. Additionally, I am familiar with database technologies such as MySQL, as well as programming languages like Python and MATLAB.
-I have always been passionate about computer architecture and computer networks, and I am constantly seeking to expand my knowledge in these areas.</description>
     </item>
     
   </channel>
