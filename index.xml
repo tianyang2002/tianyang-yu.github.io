@@ -13,22 +13,14 @@
     <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aiqiyang.github.io/tianyang02.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leetcode</title>
-      <link>https://aiqiyang.github.io/tianyang02.github.io/blogs/computer-architecture/page1/</link>
+      <link>https://aiqiyang.github.io/tianyang02.github.io/blogs/computer-architecture/leetcode/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://aiqiyang.github.io/tianyang02.github.io/blogs/computer-architecture/page1/</guid>
-      <description>1. 数组 Leetcode209. Minimum Size Subarray Sum（长度最小的子数组） 题目 给定一个含有 n 个正整数的数组和一个正整数 target 找出该数组中满足其和≥ target的长度最小的连续子数组[numsl, nums +1, ..., numsr-1, numsr] ，并返回其长度。如果不存在符合条件的子数组，返回 0
+      <guid>https://aiqiyang.github.io/tianyang02.github.io/blogs/computer-architecture/leetcode/</guid>
+      <description>数组 Leetcode 209. Minimum Size Subarray Sum（长度最小的子数组） 题目 给定一个含有 n ****个正整数的数组和一个正整数 target 。
+找出该数组中满足其和 ****≥ target **的长度最小的 连续子数组 [numsl, numsl+1, ..., numsr-1, numsr] ，并返回其长度。**如果不存在符合条件的子数组，返回 0
 思路 目标：用一层循环实现
 滑动窗口法  窗口：双指针内所有的元素（数字） 寻找子数组：计算窗口内的元素和判断是否与target相等 长度最小子数组的选择：res = length &amp;lt; res ? length : res  如何移动子数组  将双指针的后指针往后移，并计算窗口内元素的和，如果窗口内的元素和大于或者等于target，则计算当时窗口的长度，并判断是否是最小的子数组，然后将双指针的前指针向后移动，直到窗口内元素的和小于target为止。不停的重复直到后指针到达了数组最后一个元素  int sum = 0; int i = 0; int res = INT32_MAX; for (int j = 0; j &amp;lt; nums.size(); j++) { sum += nums[j]; while (sum &amp;gt;= target) { int length = j - i + 1; res = length &amp;lt; res ?</description>
-    </item>
-    
-    <item>
-      <title>Computer Architecture2</title>
-      <link>https://aiqiyang.github.io/tianyang02.github.io/blogs/computer-architecture/page2/</link>
-      <pubDate>Fri, 05 May 2023 04:50:06 +0930</pubDate>
-      
-      <guid>https://aiqiyang.github.io/tianyang02.github.io/blogs/computer-architecture/page2/</guid>
-      <description>Computer Architecture2 </description>
     </item>
     
     <item>
